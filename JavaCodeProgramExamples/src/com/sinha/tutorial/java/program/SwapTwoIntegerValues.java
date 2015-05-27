@@ -15,9 +15,6 @@ public class SwapTwoIntegerValues {
 		num1 = num1 - num2;
 		
 		System.out.println("After  Swapping :- Nummber1 : "+num1 +" & Numbmer2 : "+num2);
-		
-		
-		
 	}
 
 }
