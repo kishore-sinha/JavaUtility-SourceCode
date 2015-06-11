@@ -1,5 +1,10 @@
 package com.sinha.tutorial.java.program;
 
+/**
+ * 
+ * @author kishore
+ *
+ */
 public class ConvertDaysIntoMonthAndDays {
 
 	public static void main(String[] args) {

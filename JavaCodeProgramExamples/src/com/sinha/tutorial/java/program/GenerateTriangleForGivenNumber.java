@@ -1,5 +1,10 @@
 package com.sinha.tutorial.java.program;
 
+/**
+ * 
+ * @author kishore
+ *
+ */
 public class GenerateTriangleForGivenNumber {
 
 	public static void main(String[] args) {
